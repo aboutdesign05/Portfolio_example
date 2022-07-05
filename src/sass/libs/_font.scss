@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Poppins Bold';
+    font-display: swap;
+    src: local('Poppins-Bold'),
+        url(../../fonts/Poppins-Bold.woff2) format('wooff2'),
+        url(../../fonts/Poppins-Bold.woff) format('wooff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins Medium';
+    font-display: swap;
+    src: local('Poppins Medium'),
+        url(../../fonts/Poppins-Medium.woff2) format('wooff2'),
+        url(../../fonts/Poppins-Medium.woff) format('wooff');
+    font-weight: 500;
+    font-style: normal;
+}
